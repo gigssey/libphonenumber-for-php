@@ -7,7 +7,7 @@ namespace libphonenumber;
  */
 class NumberFormat
 {
-    protected $pattern = null;
+    protected $pattern = null; //test
     protected $format = null;
     protected $leadingDigitsPattern = array();
     protected $nationalPrefixFormattingRule = null;
