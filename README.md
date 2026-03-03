@@ -35,7 +35,7 @@ The PECL [mbstring](http://php.net/mbstring) extension is required.
 It is recommended to use [composer](https://getcomposer.org) to install the library.
 
 ```bash
-$ composer require giggsey/libphonenumber-for-php
+$ composer require gigssey/libphonenumber-for-php
 ```
 
 You can also use any other [PSR-4](http://www.php-fig.org/psr/psr-4/) compliant autoloader.
